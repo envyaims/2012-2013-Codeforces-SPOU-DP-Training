@@ -1,3 +1,4 @@
+// knight
 #ifndef LOCAL
 #define debug(...) 0
 #include <bits/stdc++.h>
