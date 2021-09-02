@@ -1,10 +1,3 @@
-// Problem: G - Longest Path
-// Contest: AtCoder - Educational DP Contest
-// URL: https://atcoder.jp/contests/dp/tasks/dp_g
-// Memory Limit: 1024 MB
-// Time Limit: 2000 ms
-// Attempted: 2021-08-29 20:02:20 EST
-
 #ifndef LOCAL
 #define debug(...) 0
 #include <bits/stdc++.h>
